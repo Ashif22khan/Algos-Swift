@@ -23,8 +23,8 @@ func fast_sqrt(input:uint)->uint{
     }
     return first
 }
-//let result:uint=fast_sqrt(65000)
-//var str = "Hello, playground-\(result)"
+let result:uint=fast_sqrt(50000)
+var str = "Hello, playground-\(result)"
 
 
 
